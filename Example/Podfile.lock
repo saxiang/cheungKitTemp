@@ -1,0 +1,16 @@
+PODS:
+  - cheungKitTemp (1)
+
+DEPENDENCIES:
+  - cheungKitTemp (from `../`)
+
+EXTERNAL SOURCES:
+  cheungKitTemp:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  cheungKitTemp: 7a17275664bcff1ccfe00e59c1f4dc3ec9ab824a
+
+PODFILE CHECKSUM: 01a83fd697111ae45bc28de0105e9d14b4c6477a
+
+COCOAPODS: 1.11.2
